@@ -8,3 +8,4 @@ seaborn==0.13.2
 statsforecast==2.0.3
 xgboost==3.2.0
 nbformat>=4.2.0
+numpy>=1.26.0,<2.0.0
